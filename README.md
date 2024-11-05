@@ -7,7 +7,7 @@ This tool simplifies the process of flashing firmware onto ESP-based boards usin
 
 ## Screenshot
 
-![Main screen of the tool](./images/GEIA-Arduino-Firmware-Flasher-Tool-screenshot-2024.png)
+![Main screen of the tool](./GEIA-Arduino-Firmware-Flasher-Tool-screenshot-2024.png)
 
 ## Download compiled version for your OS
 
